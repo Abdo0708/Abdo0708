@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a Computer Science.
+I am currently a Computer Science freshman .
 I am seeking to learn and build myself towards Cyber Security as I am profoundly ardent about this sizably voluminous topic 🔭 .
