@@ -1,4 +1,4 @@
-### Hello!
+### Hello! 🤔
 
 <!--
 **Abdo0708/Abdo0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a Computer Science freshman at the University of Ain Shams . I am seeking to learn and build myself towards Cyber Security as I am profoundly ardent about this sizably voluminous topic
+I am currently a Computer Science freshman at the University of Ain Shams . I am seeking to learn and build myself towards Cyber Security as I am profoundly ardent about this sizably voluminous topic 🔭 .
